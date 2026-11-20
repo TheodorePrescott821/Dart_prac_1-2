@@ -1,3 +1,5 @@
+Задания из практических работ 1 и 2 выполнены в /lib
+
 # dart_flatter
 
 A new Flutter project.
